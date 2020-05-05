@@ -1,0 +1,7 @@
+nsynth-test/
+nsynth-train/
+pickles/
+scripts/
+tensorflow/
+.DS_Store
+
